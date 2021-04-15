@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 728A-8E6C
+
+ Directory of C:\Users\pripar\Desktop\Projects\Git
+
+04/16/2021  12:28 AM    <DIR>          .
+04/16/2021  12:28 AM    <DIR>          ..
+04/16/2021  12:03 AM               412 index.html
+04/16/2021  12:04 AM               377 test1.txt
+04/16/2021  12:28 AM                 0 test2.txt
+               3 File(s)            789 bytes
+               2 Dir(s)  898,979,586,048 bytes free
